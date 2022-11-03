@@ -1,0 +1,969 @@
+
+Configuraci¢n IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1242
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.72.170
+
+
+    1.240.27.172.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.240.27.172.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per¡odo de vida . . . : 0
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro PTR. . . . . : Assassin07.mshome.net
+
+
+    vortex.data.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : vortex.data.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 686
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : asimov.vortex.data.trafficmanager.net
+
+
+    Nombre de registro  . : asimov.vortex.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 686
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : onedscolprdaus02.australiasoutheast.cloudapp.azure.com
+
+
+    Nombre de registro  . : onedscolprdaus02.australiasoutheast.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 686
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.46.162.226
+
+
+    trouter2-uswc-0-b.trouter.teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : trouter2-uswc-0-b.trouter.teams.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 2078
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : trouter2-uswc-0-b.cloudapp.net
+
+
+    Nombre de registro  . : trouter2-uswc-0-b.cloudapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2078
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.113.207.5
+
+
+    storecatalogrevocation.storequality.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : storecatalogrevocation.storequality.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1847
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : storecatalogrevocation.storequality.microsoft.com.edgekey.net
+
+
+    Nombre de registro  . : storecatalogrevocation.storequality.microsoft.com.edgekey.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1847
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : e10198.b.akamaiedge.net
+
+
+    Nombre de registro  . : e10198.b.akamaiedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1847
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 23.205.201.193
+
+
+    outlook.office.com
+    ----------------------------------------
+    Nombre de registro  . : outlook.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : substrate.office.com
+
+
+    Nombre de registro  . : substrate.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : outlook.office365.com
+
+
+    Nombre de registro  . : outlook.office365.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : outlook.ha.office365.com
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.165.98
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.3.130
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.166.2
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.46.66
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.18.2
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.42.66
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.166.130
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.18.178
+
+
+    outlook.office.com
+    ----------------------------------------
+    Nombre de registro  . : outlook.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : substrate.office.com
+
+
+    Nombre de registro  . : substrate.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : outlook.office365.com
+
+
+    Nombre de registro  . : outlook.office365.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : outlook.ha.office365.com
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.165.98
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.3.130
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.166.2
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.46.66
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.18.2
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.42.66
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.166.130
+
+
+    Nombre de registro  . : outlook.ha.office365.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1000
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.96.18.178
+
+
+    checkappexec.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : checkappexec.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1718
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : wd-prod-ss.trafficmanager.net
+
+
+    Nombre de registro  . : wd-prod-ss.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1718
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : wd-prod-ss-us-east-2-fe.eastus.cloudapp.azure.com
+
+
+    Nombre de registro  . : wd-prod-ss-us-east-2-fe.eastus.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1718
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.81.52.156
+
+
+    activity.windows.com
+    ----------------------------------------
+    Nombre de registro  . : activity.windows.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 476
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : activity-geo.trafficmanager.net
+
+
+    Nombre de registro  . : activity-geo.trafficmanager.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 476
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.69.137.228
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-mira-afd.trafficmanager.net
+
+
+    Nombre de registro  . : teams-mira-afd.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : svc.ha-teams.office.com
+
+
+    Nombre de registro  . : svc.ha-teams.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : svc.ms-acdc-teams.office.com
+
+
+    Nombre de registro  . : svc.ms-acdc-teams.office.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.123.249.179
+
+
+    Nombre de registro  . : svc.ms-acdc-teams.office.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.123.249.146
+
+
+    Nombre de registro  . : svc.ms-acdc-teams.office.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.123.249.182
+
+
+    Nombre de registro  . : svc.ms-acdc-teams.office.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1861
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.123.249.169
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : clientservices.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 231
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.131
+
+
+    v10.events.data.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : v10.events.data.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1262
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : global.asimov.events.data.trafficmanager.net
+
+
+    Nombre de registro  . : global.asimov.events.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1262
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : onedscolprdwus12.westus.cloudapp.azure.com
+
+
+    Nombre de registro  . : onedscolprdwus12.westus.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1262
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.189.173.13
+
+
+    default.exp-tas.com
+    ----------------------------------------
+    Nombre de registro  . : default.exp-tas.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : deault-exp-tas-com.e-0014.e-msedge.net
+
+
+    Nombre de registro  . : deault-exp-tas-com.e-0014.e-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : e-0014.e-msedge.net
+
+
+    Nombre de registro  . : e-0014.e-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.5.93
+
+
+    default.exp-tas.com
+    ----------------------------------------
+    Nombre de registro  . : default.exp-tas.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : deault-exp-tas-com.e-0014.e-msedge.net
+
+
+    Nombre de registro  . : deault-exp-tas-com.e-0014.e-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : e-0014.e-msedge.net
+
+
+    Nombre de registro  . : e-0014.e-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 712
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.5.93
+
+
+    mobile.events.data.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : mobile.events.data.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1090
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mobile.events.data.trafficmanager.net
+
+
+    Nombre de registro  . : mobile.events.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1090
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : onedscolprdweu06.westeurope.cloudapp.azure.com
+
+
+    Nombre de registro  . : onedscolprdweu06.westeurope.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1090
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.69.116.104
+
+
+    catalog.gamepass.com
+    ----------------------------------------
+    Nombre de registro  . : catalog.gamepass.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1898
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : catalog.gamepass.com.edgesuite.net
+
+
+    Nombre de registro  . : catalog.gamepass.com.edgesuite.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1898
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : a1992.dscd.akamai.net
+
+
+    Nombre de registro  . : a1992.dscd.akamai.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1898
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 184.28.98.115
+
+
+    Nombre de registro  . : a1992.dscd.akamai.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1898
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 184.28.98.105
+
+
+    www.telecommandsvc.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : www.telecommandsvc.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1635
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : telecommandsvc.trafficmanager.net
+
+
+    Nombre de registro  . : telecommandsvc.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1635
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : telecommand.azurewebsites.net
+
+
+    Nombre de registro  . : telecommand.azurewebsites.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1635
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : waws-prod-usw3-011.sip.azurewebsites.windows.net
+
+
+    Nombre de registro  . : waws-prod-usw3-011.sip.azurewebsites.windows.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1635
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : waws-prod-usw3-011-3570.westus3.cloudapp.azure.com
+
+
+    Nombre de registro  . : waws-prod-usw3-011-3570.westus3.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1635
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.118.138.130
+
+
+    media.fntr6-4.fna.whatsapp.net
+    ----------------------------------------
+    Nombre de registro  . : media.fntr6-4.fna.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1967
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.233.254.96
+
+
+    presence.teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : presence.teams.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 277
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : presence.services.sfb.trafficmanager.net
+
+
+    Nombre de registro  . : presence.services.sfb.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 277
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-ups-presence11-prod-azsc.eastus.cloudapp.azure.com
+
+
+    Nombre de registro  . : a-ups-presence11-prod-azsc.eastus.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 277
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.114.133.17
+
+
+    az667904.vo.msecnd.net
+    ----------------------------------------
+    Nombre de registro  . : az667904.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1176
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : az667904-pme.azureedge.net
+
+
+    Nombre de registro  . : az667904-pme.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1176
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : az667904-pme.ec.azureedge.net
+
+
+    Nombre de registro  . : az667904-pme.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1176
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1176
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    targetednotifications-tm.trafficmanager.net
+    ----------------------------------------
+    Nombre de registro  . : targetednotifications-tm.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 267
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : tn-api-prod-southcentralus.azurewebsites.net
+
+
+    Nombre de registro  . : tn-api-prod-southcentralus.azurewebsites.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 267
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : waws-prod-sn1-111.sip.azurewebsites.windows.net
+
+
+    Nombre de registro  . : waws-prod-sn1-111.sip.azurewebsites.windows.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 267
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : waws-prod-sn1-111.southcentralus.cloudapp.azure.com
+
+
+    Nombre de registro  . : waws-prod-sn1-111.southcentralus.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 267
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.85.16.224
+
+
+    easylist-downloads.adblockplus.org
+    ----------------------------------------
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.251.46.249
+
+
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 65.21.202.74
+
+
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.55.141.101
+
+
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 188.40.129.157
+
+
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 195.201.54.247
+
+
+    Nombre de registro  . : easylist-downloads.adblockplus.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 181
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 95.217.57.100
+
+
+    1.80.25.172.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.80.25.172.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per¡odo de vida . . . : 0
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro PTR. . . . . : DESKTOP-5R4T9SF.mshome.net
+
+
+    desktop-5r4t9sf.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : DESKTOP-5R4T9SF.mshome.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 0
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.25.80.1
+
+
+    desktop-5r4t9sf.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    displaycatalog.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : displaycatalog.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 975
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : displaycatalog-rp.md.mp.microsoft.com.akadns.net
+
+
+    Nombre de registro  . : displaycatalog-rp.md.mp.microsoft.com.akadns.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 975
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : rp-consumer-prod-displaycatalog-geomap.trafficmanager.net
+
+
+    Nombre de registro  . : rp-consumer-prod-displaycatalog-geomap.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 975
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
+
+
+    Nombre de registro  . : wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 975
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.99.133.109
+
+
+    assassin07.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : Assassin07.mshome.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 0
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.27.240.1
+
+
+    assassin07.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    az764295.vo.msecnd.net
+    ----------------------------------------
+    Nombre de registro  . : az764295.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1868
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs22.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs22.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1868
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 152.199.4.33
+
+
+    fe3cr.delivery.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : fe3cr.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fe3.delivery.mp.microsoft.com
+
+
+    Nombre de registro  . : fe3.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.cws.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.cws.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 40.77.2.164
+
+
+    fe3cr.delivery.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : fe3cr.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fe3.delivery.mp.microsoft.com
+
+
+    Nombre de registro  . : fe3.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.cws.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.cws.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 909
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 40.77.2.164
+
+
+    clients4.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients4.google.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1599
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1599
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.191.46
+
+
+    dit.whatsapp.net
+    ----------------------------------------
+    Nombre de registro  . : dit.whatsapp.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1128
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : scontent.whatsapp.net
+
+
+    Nombre de registro  . : scontent.whatsapp.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1128
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mmx-ds.cdn.whatsapp.net
+
+
+    Nombre de registro  . : mmx-ds.cdn.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1128
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 31.13.89.53
+
+
+    web.whatsapp.com
+    ----------------------------------------
+    Nombre de registro  . : web.whatsapp.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1104
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mmx-ds.cdn.whatsapp.net
+
+
+    Nombre de registro  . : mmx-ds.cdn.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1104
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 157.240.11.53
+
+
+    time.windows.com
+    ----------------------------------------
+    Nombre de registro  . : time.windows.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 2604
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : twc.trafficmanager.net
+
+
+    Nombre de registro  . : twc.trafficmanager.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2604
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 40.119.6.228
+
+
+    www.facebook.com
+    ----------------------------------------
+    Nombre de registro  . : www.facebook.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 245
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : star-mini.c10r.facebook.com
+
+
+    Nombre de registro  . : star-mini.c10r.facebook.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 245
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 31.13.70.36
+
+
